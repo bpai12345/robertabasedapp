@@ -4,4 +4,4 @@ easyocr
 Pillow
 haystack
 opencv-python==4.5.5.64
-PyMuPDF
+pdfplumber
